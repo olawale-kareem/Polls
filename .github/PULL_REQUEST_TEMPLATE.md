@@ -1,6 +1,6 @@
-# Description
+## Description
 
-initial setup completed
+Initial setup completed
 
 ## Type of change
 
@@ -11,5 +11,3 @@ initial setup completed
 - [ ] continuous integration setup
 - [ ] django project polls created
 - [ ] a requirements.txt file is added in the django polls project
-
-
