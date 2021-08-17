@@ -1,6 +1,6 @@
 ## Description
 
-Initial setup completed
+Initial setup_ci branch completed
 
 ## Type of change
 
